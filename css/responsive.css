@@ -1,0 +1,225 @@
+/* normal desktop :992px */
+@media(min-width:992px)and (max-width:1200px){
+	.container {width:970px}
+        .input-field li {
+             position: relative;
+             width: 64px;
+        } 
+      .input-field li img {
+         max-width: 58px;
+         position: relative;
+     }
+   .input-field li input {
+      height: 49px;
+      left: 8px;
+      line-height: 49px;
+      top: 4px;
+      width: 49px;
+  }
+  .side-img img {
+      //bottom: -124px;
+      position: absolute;
+   }
+   .icon-1 a i {
+     font-size: 49px !important;
+   }
+   .icon-1 {
+      //bottom: -125px !important;
+      right: 27px !important;
+   }
+   
+   .small-logo {
+     margin: 0 auto;
+     max-height: 70px;
+     max-width: 60px;
+  }
+  .side-img-2 img {
+      width: 58px!important;
+      //bottom: -59px!important;
+   }
+ 
+  .icon {
+    //bottom: -62px!important;
+    position: absolute;
+    right: 17px!important;
+ }
+ 
+ .icon a i {
+  //color: hsl(355, 97%, 34%);
+  font-size: 56px !important;
+}
+.side-img-3 img {
+  position: absolute;
+  //bottom: -63px!important;
+}
+
+
+}
+
+/* tablet desktop :768px */
+
+@media(min-width:768px) and (max-width:991px){
+	
+.container {width:750px}
+  .input-field li {
+    width: 51px;
+  }
+  .input-field li img {
+     max-width: 47px;
+    
+  }
+.input-field li input {
+  height: 43px;
+  left: 8px;
+  line-height: 41px;
+  top: 2px;
+  width: 40px;
+}
+
+.hyphen {
+  top: -9px;
+}
+
+.sidebars {
+  margin: 10px auto auto;
+  min-height: 600px;
+  width: 97%;
+  margin-bottom: 10px;
+}
+.red-btns {
+  margin-top: 7px;
+}
+
+.lower-panel.clearfix {
+  margin-bottom: 20px!important;
+}
+.modal-pin-input ul li input {
+ 
+  height: 46px;
+  line-height: 46px;
+  width: 46px;
+}
+
+
+}
+
+ /* Large Mobile :480px */
+
+ @media (min-width:480px) and (max-width:767px){
+	 
+	.container{width:450px}
+	 
+.input-field li {
+  width: 19px;
+}
+.input-field li img {
+  max-width: 20px;
+ 
+}
+
+.input-field li input {
+ 
+ 
+  height: 14px;
+  left: 8px;
+  line-height: 13px;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+  font-size: 10px;
+}
+.margin-top-20 {
+  margin-top: 4px;
+}
+
+.hyphen {
+  font-size: 42px;
+  top: -1px;
+}
+.sidebars {
+  margin: 10px auto auto;
+  min-height: 500px;
+  width: 96%;
+  margin-bottom: 10px;
+}
+.red-btns {
+  margin-top: 7px;
+}
+
+.lower-panel.clearfix {
+  margin-bottom: 20px!important;
+}
+
+.modal-pin-input ul li input {
+  
+  height: 30px;
+  line-height: 40px;
+  width: 30px;
+}
+
+
+.video-up {
+  height: 182px;
+  padding-top: 44px;
+  width: 264px;
+}
+ }
+ 
+  /* small mobile :320px */
+  @media(min-width:340px) and (max-width:480px){
+.container{width:300px}
+
+.sidebars {
+  margin: 10px auto;
+  min-height: 400px;
+  width: 91%;
+  border: 5px solid hsl(45, 45%, 62%);
+}
+.red-btns {
+  margin-top: 7px;
+}
+
+.lower-panel.clearfix {
+  margin-bottom: 20px!important;
+}
+.red-btns {
+  border: 5px solid hsl(45, 45%, 62%);
+ 
+}
+	
+.red-btn {
+  font-size: 6px;
+}
+
+.lower-panel {
+  border: 5px solid hsl(45, 45%, 62%);
+ 
+}
+.actors-bg h1 {
+  font-size: 45px;
+ 
+}
+.script-text p {
+  font-size: 12px;
+}
+	
+.video-up {
+  height: 172px;
+  padding-top: 44px;
+  width: 256px;
+} 
+.recomnd-email {
+  border: 2px solid hsl(45, 45%, 62%);
+  border-radius: 2px;
+  margin: 40px auto 0;
+  padding: 20px 0;
+  width: 272px;
+} 
+	  
+	
+  }
+  
+  
+
+
+
