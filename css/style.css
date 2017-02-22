@@ -400,7 +400,7 @@ body{
     background-color: rgba(30,30,30,.5);
 }
 .script-text{
-    padding: 10px 0 30px;
+    padding: 5px 0 10px;
 }
 .script-text h3{
     border-bottom: 1px solid #CAB474;
@@ -724,6 +724,7 @@ a{
     padding: 0 !important;
 }
 code{
+    text-align: left;
     background: none;
     color: #cab474;
     font-weight: bold;
