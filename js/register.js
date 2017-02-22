@@ -21,7 +21,7 @@ $(document).ready(function(){
 
   	$("#history").delay(3000).queue(function(){
 
-  		$("#history").append('<img src="images/receipt.jpg" alt="receipt" height="200" width="200">' );
+  		$("#history").append('<img src="images/receipt.jpg" alt="receipt" height="200" width="150">' );
   	});
 
   		
