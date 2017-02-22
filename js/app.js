@@ -43,18 +43,21 @@ $(document).ready(function(){
 
 	$("#email1").click(function(){
 
-		$("#email1").attr("placeholder","");
+		$(".email1").text("");
 	});
 
 	$("#email2").click(function(){
 
-		$("#email2").attr("placeholder","");
+		// $("#email2").attr("placeholder","");
+		$(".email2").text("");
 	});
 
-	$("input#email3").click(function(){
+	$("#email3").click(function(){
 
-		$("input#email3").attr("placeholder","");
+		// $("input#email3").attr("placeholder","");
+		$(".email3").text("");
 	});
+
 
 
 	// $("#welcome").fadeOut(3000);
