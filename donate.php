@@ -115,9 +115,9 @@ if(isset($_POST['submit'])) {
                   <form class="recomnd-email PRfan" action="abc" method="POST" id="emails-form">
                      <h3>Recommend Good Actors</h3>
                       <ol class="list-unstyled PRfan">
-                          Email1<li><input type="text"value="" name="email1" id="email1" align="absmiddle" class="emailreq_valid" placeholder="Email"></li><br>
-                          Email2<li><input type="text" value="" name="email2" id="email2" align="absmiddle" class="emailreq_valid" placeholder="Email"></li><br>
-                          Email3<li><input type="text" value="" name="email3" id="email3" align="absmiddle" class="emailreq_valid" placeholder="Email"></li>
+                          <label class="email1">Email1</label><li><input type="text"value="" name="email1" id="email1" align="absmiddle" class="emailreq_valid" placeholder="Email"></li><br>
+                          <label class="email2">Email2</label><li><input type="text" value="" name="email2" id="email2" align="absmiddle" class="emailreq_valid" placeholder="Email"></li><br>
+                          <label class="email3">Email3</label><li><input type="text" value="" name="email3" id="email3" align="absmiddle" class="emailreq_valid" placeholder="Email"></li>
                       </ol>
                       <button type="submit" name="submit" class="btn btn-default">GO</button>
                   </form>
