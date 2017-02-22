@@ -19,7 +19,7 @@
 <body>
 <div class="container-fluid">
 	<div class="row display-table"  id="scrdisplay-tableoll">
-		<div class="col-md-6 col-md-offset-3 a4_red_frame display-table-cell text-center">
+		<div class="col-md-8 col-md-offset-3 a4_red_frame display-table-cell text-center">
 			<div class="script-text golden-color" id="div_print">
 				<h3 class="golden-color">Business Promoter</h3>
 
